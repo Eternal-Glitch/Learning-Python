@@ -14,7 +14,7 @@ countries = tuple(temp) #Ig it's better to write tuple here too, for less errors
 
 print(countries)
 
-#while contactinating two tuples you are creating a new tuple so that's fine
+#while concatinating two tuples you are creating a new tuple so that's fine
 
 #Well there are some methods for tuples like
 

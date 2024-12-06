@@ -1,4 +1,4 @@
-#Two types: 1.Built-in (You don't need to write def)(min(),max(),len(),sum(),etc)  2.User-defined(We write def)
+#Two types: 1.Built-in (You don't need to write def) (min(),max(),len(),sum(),etc)  2.User-defined(We write def)
 
 def mid(a,b):       #defining a function with def
     ans = (a+b)/2

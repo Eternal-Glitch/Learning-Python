@@ -2,6 +2,7 @@
 
 l = [4,6,9, 'Ski', True, "Witless", 1, False]     #This is a list
 print(l)
+
 #Positive index
 print(l[0])
 print(l[1])

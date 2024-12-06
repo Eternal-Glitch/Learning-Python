@@ -29,7 +29,7 @@ while(i<=5):
 else:       #You can use else with while, After the loop stops it'll go into else
     print('Done.')
 
-#There is no do-while loop in pyhton, but the question to make one is surely asked....so here,
+#There is no do-while loop in python, but the question to make one is surely asked....so here,
 #To create a do-while loop
 num = 1
 while(num > 0):     #Yes we use and infinte loop

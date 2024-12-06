@@ -6,7 +6,7 @@ for mark in marks:
     print(mark)
     if(index == 3):
         print("Me is awesome.")
-    index += 1'''      #You cannot write =+, it won't give error but won't give the solution too
+    index += 1'''      #You cannot write =+, it won't give error but won't give the solution either
 
 #To make this a litlle better we can use enumerate functions
 

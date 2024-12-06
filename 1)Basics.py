@@ -1,11 +1,11 @@
-# This is used only for comments and yeh that's it what else, what up nigga!!
+# This is used only for comments and yeh that's it what else
 # ctrl + / will turn the selected lines into comments
-print("Hello you stupid fuck.",20)
-print(10*25, 30/10, 69+46, 83-99) 
+print("Hello human.",20)
+print(10*25, 30/10, 69+46, 83-99)
 
 print("\nBTW this is how to \n get to a new line, pretty basic\n")
 
-print("\nHow to use \"double quote\" also single quote like nigg \' in a sentence coz if you just put it then python thinks \"WTF\", where is end where is start?")
+print("\nHow to use \"double quote\" also single quote like nigg \' in a sentence coz if you just put it then python thinks \"HUH?\", where is end where is start?")
 print('Or, you can just use "single quote (\')" to display quotes inside.')
 
 print("\nJoin us", 7,9, "Me too", 10, sep="~", end="Done bro")
@@ -18,7 +18,7 @@ These things are used to mark a multi line comment
 
 """
 Guess what, even i work the same
-HAHAHAHhahHAHAHA, even i can comment multiple lines.
+Well well, Even i can comment multiple lines.
 """
 
 #You can store paragraphs or poems like the comments you have written above in ''' or """ into a variable and print it.

@@ -1,13 +1,12 @@
 story = """There was once a boy,
-had someone to love,
-was happy with her and tried to make her happy,
-But he got nothing in return and she didn't help him,
-He was done baring everything and wanted to leave,
-He tried leaving but love brought him back,
-But then she left,
-Found someone else after some months, and was happy with him,
-The boy is still a fool for her,
-He might never love anyone the way he did.
+He played with a ball,
+the ball slipped from his hand,
+it rolled down and down until it fell,
+Fell into the river and thought he'd never get it back,
+His father seeing from a distance, the sadness of the child,
+He wished that the kid learned, that he can lose things he like,
+He cannot wish to have an eternal source of happiness.
+He shall grow into a man sooner with hardships.
 """
 
 # for character in story:
@@ -33,12 +32,12 @@ print(animal[-6:-3]) #It says len(animal)-6 : len(animal)-3 => 6:9
 
 #String operations/methods (They operate on your string and create new ones)
 name = '!!Utkarsh bhai!! !!!'
-#strings are immutable so all these strings below are new strings....not converted into upper or lower
+#Strings are immutable so all these strings below are new strings....not converted into upper or lower
 print(len(name))
 print(name.upper())
 print(name.lower())
 print(name.rstrip("!"))     #strips trailing characters
-print(name.replace("Utkarsh", "Nigg"))
+print(name.replace("Utkarsh", "Daud"))
 print(name.split(" "))      #I'm spiltting with a space so the string needs to have a space, and this creates a list
 print(name.capitalize())    #This captilizes the first letter and rest are lowercased.
 print(name.count('Utkarsh'))
